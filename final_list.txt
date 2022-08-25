@@ -96,7 +96,7 @@ mpmath==1.2.1
 networkx==2.8.6
 ngboost==0.3.12
 numba==0.56.0
-numpy==1.23.2
+numpy==1.22.4
 oauthlib==3.2.0
 opt-einsum==3.3.0
 optuna==2.10.1
