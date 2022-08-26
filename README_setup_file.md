@@ -3,7 +3,7 @@
 1. Download the file & upload the right path
    - Download the file and move the file to the location where pip.exe is located
 2. Path Settings
-  - Check the "pip list" is working in cmd
+   - Check the "pip list" is working in cmd
 3. SSL Settings
    - If you do not want to verify SSL certificates, change the code in the sessions.py file
    - self.verify=True-> self.verify=False (line : #: SSL Verification default.)
